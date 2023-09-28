@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084659702888",
+    "project_id": "travel-360307",
+    "storage_bucket": "travel-360307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084659702888:android:6a5c7d4113910bd4f6afdd",
+        "android_client_info": {
+          "package_name": "com.ashif.trilix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084659702888-gskikhaeh5biq26t3hrv6mtmpjhi6h3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashif.trilix",
+            "certificate_hash": "7d725fcd711835a89eef979df17c2138962b57e8"
+          }
+        },
+        {
+          "client_id": "1084659702888-6nactoedif5t51v728jq1c73ho42k7cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5XQxaD40neKde27fjK0yWGxz-zN3v7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084659702888-6nactoedif5t51v728jq1c73ho42k7cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
