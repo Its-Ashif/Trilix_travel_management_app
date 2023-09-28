@@ -1,6 +1,6 @@
 # trilix
 
-A new Flutter project.
+<c> A travel management app </c>
 
 ## Getting Started
 
