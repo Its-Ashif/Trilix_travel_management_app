@@ -1,10 +1,9 @@
 # trilix
 
-<c> A travel management app </c>
+<center> A travel management app </center>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Prototype
+This app is an working prototype that uses the local API's and local payment system to demonstrate the app in working condition.
 
 A few resources to get you started if this is your first Flutter project:
 
